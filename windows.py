@@ -13,9 +13,11 @@ app_list.sort()
 # Open a file for writing
 with open('installed_apps.txt', 'w') as file:
     # Write a bullet point for each application
+    file.write('Installed Applications:\n')
     for app in app_list:
-        file.write('- ' + app + '\n')
+        file.write('  - ' + app + '\n')
 
 # Print the list of applications to the console
+print('Installed Applications:')
 for app in app_list:
-    print('- ' + app)
+    print('  - ' + app)

@@ -16,5 +16,6 @@ with open('installed_apps.txt', 'w') as file:
         file.write('- ' + app + '\n')
 
 # Print the list of applications to the console
+print('Installed Applications:')
 for app in app_list:
     print('- ' + app)
