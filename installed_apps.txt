@@ -1,456 +1,912 @@
 - /Applications/1Password for Safari.app
+  - File path: 
 - /Applications/1Password.app
+  - File path: 
 - /Applications/Adobe Aero 2022 (Beta)/Adobe Aero.app
+  - File path: 
 - /Applications/Adobe Bridge 2023/Adobe Bridge 2023.app
+  - File path: 
 - /Applications/Adobe Character Animator 2023/Adobe Character Animator 2023.app
+  - File path: 
 - /Applications/Adobe Lightroom CC/Adobe Lightroom.app
+  - File path: 
 - /Applications/Adobe Media Encoder 2023/Adobe Media Encoder 2023.app
+  - File path: 
 - /Applications/Adobe Photoshop 2023/Adobe Photoshop 2023.app
+  - File path: 
 - /Applications/Adobe Premiere Rush 2.0/Adobe Premiere Rush.app
+  - File path: 
 - /Applications/Adobe UXP Developer Tool/Adobe UXP Developer Tool.app
+  - File path: 
 - /Applications/Alfred 4.app
+  - File path: 
 - /Applications/AltTab.app
+  - File path: 
 - /Applications/AppCleaner.app
+  - File path: 
 - /Applications/Authenticator.app
+  - File path: 
 - /Applications/Bartender 4.app
+  - File path: 
 - /Applications/Boop.app
+  - File path: 
 - /Applications/Brave Browser.app
+  - File path: 
 - /Applications/Canary Mail.app
+  - File path: 
 - /Applications/CheatSheet.app
+  - File path: 
 - /Applications/ClamXAV.app
+  - File path: 
 - /Applications/CleanShot X.app
+  - File path: 
 - /Applications/Dependencies.app
+  - File path: 
 - /Applications/Developer.app
+  - File path: 
 - /Applications/Discord.app
+  - File path: 
 - /Applications/Dropzone 4.app
+  - File path: 
 - /Applications/Final Cut Pro.app
+  - File path: 
 - /Applications/Firefox.app
+  - File path: 
 - /Applications/FortiClient.app
+  - File path: 
 - /Applications/FortiClientUninstaller.app
+  - File path: 
 - /Applications/Google Chrome.app
+  - File path: 
 - /Applications/HP Smart.app
+  - File path: 
 - /Applications/Imaging Edge Desktop.app
+  - File path: 
 - /Applications/Imaging Edge/Edit.app
+  - File path: 
 - /Applications/Imaging Edge/Remote.app
+  - File path: 
 - /Applications/Imaging Edge/Viewer.app
+  - File path: 
 - /Applications/Keynote.app
+  - File path: 
 - /Applications/LanScan.app
+  - File path: 
 - /Applications/LiveConnect.app
+  - File path: 
 - /Applications/Logi Options.app
+  - File path: 
 - /Applications/LogiMgr Installer 9.60.116.app
+  - File path: 
 - /Applications/Maccy.app
+  - File path: 
 - /Applications/Microsoft Excel.app
+  - File path: 
 - /Applications/Microsoft OneNote.app
+  - File path: 
 - /Applications/Microsoft Outlook.app
+  - File path: 
 - /Applications/Microsoft PowerPoint.app
+  - File path: 
 - /Applications/Microsoft Remote Desktop.app
+  - File path: 
 - /Applications/Microsoft Teams.app
+  - File path: 
 - /Applications/Microsoft Word.app
+  - File path: 
 - /Applications/Noir.app
+  - File path: 
 - /Applications/NordVPN.app
+  - File path: 
 - /Applications/Numbers.app
+  - File path: 
 - /Applications/Numi.app
+  - File path: 
 - /Applications/OWASP ZAP.app
+  - File path: 
 - /Applications/OmniFocus.app
+  - File path: 
 - /Applications/OneDrive.app
+  - File path: 
 - /Applications/OpenVPN Connect/OpenVPN Connect.app
+  - File path: 
 - /Applications/OpenVPN Connect/Uninstall OpenVPN Connect.app
+  - File path: 
 - /Applications/Original Prusa Drivers/Pronterface.app
+  - File path: 
 - /Applications/Original Prusa Drivers/PrusaSlicer.app
+  - File path: 
 - /Applications/Pages.app
+  - File path: 
 - /Applications/Playgrounds.app
+  - File path: 
 - /Applications/PyCharm CE.app
+  - File path: 
 - /Applications/Python 3.11/IDLE.app
+  - File path: 
 - /Applications/Python 3.11/Python Launcher.app
+  - File path: 
 - /Applications/Resume Star.app
+  - File path: 
 - /Applications/Safari.app
+  - File path: 
 - /Applications/Skim.app
+  - File path: 
 - /Applications/Slack.app
+  - File path: 
 - /Applications/Spotify.app
+  - File path: 
 - /Applications/Termius.app
+  - File path: 
 - /Applications/There.app
+  - File path: 
 - /Applications/Utilities/Adobe Application Manager/IPC/AdobeIPCBroker.app
+  - File path: 
 - /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app
+  - File path: 
 - /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud Helper.app
+  - File path: 
 - /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app
+  - File path: 
 - /Applications/Utilities/Adobe Creative Cloud/Utils/CC Troubleshooter.app
+  - File path: 
 - /Applications/Utilities/Adobe Creative Cloud/Utils/Creative Cloud Desktop App.app
+  - File path: 
 - /Applications/Utilities/Adobe Creative Cloud/Utils/Creative Cloud Installer.app
+  - File path: 
 - /Applications/Utilities/Adobe Creative Cloud/Utils/Creative Cloud Uninstaller.app
+  - File path: 
 - /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app
+  - File path: 
 - /Applications/Utilities/LogiMgr Uninstaller.app
+  - File path: 
 - /Applications/Utilities/XQuartz.app
+  - File path: 
 - /Applications/VirtualBox.app
+  - File path: 
 - /Applications/VirtualDJ.app
+  - File path: 
 - /Applications/Visual Studio Code.app
+  - File path: 
 - /Applications/Warp.app
+  - File path: 
 - /Applications/Wireshark.app
+  - File path: 
 - /Applications/Xcode.app
+  - File path: 
 - /Applications/Xcode.app/Contents/Applications/Accessibility Inspector.app
+  - File path: 
 - /Applications/Xcode.app/Contents/Applications/Create ML.app
+  - File path: 
 - /Applications/Xcode.app/Contents/Applications/FileMerge.app
+  - File path: 
 - /Applications/Xcode.app/Contents/Applications/Instruments.app
+  - File path: 
 - /Applications/Xcode.app/Contents/Applications/RealityComposer.app
+  - File path: 
 - /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app
+  - File path: 
 - /Applications/Xcode.app/Contents/Developer/Applications/Xcode Server Builder.app
+  - File path: 
 - /Applications/Zenmap.app
+  - File path: 
 - /Applications/ZoomMe.app
+  - File path: 
 - /Applications/iTerm.app
+  - File path: 
 - /Applications/lghub.app
+  - File path: 
 - /Applications/logioptionsplus.app
+  - File path: 
 - /Applications/zoom.us.app
+  - File path: 
 - /Library/Apple/System/Library/CoreServices/MRT.app
+  - File path: 
 - /Library/Apple/System/Library/CoreServices/XProtect.app
+  - File path: 
 - /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/AppleMobileDeviceHelper.app
+  - File path: 
 - /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/AppleMobileSync.app
+  - File path: 
 - /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/MobileDeviceUpdater.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/AppsPanel/Updater/Adobe Application Updater.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/DEBox/DE6/resources/uninstall/Uninstall Product.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/DEBox/Setup.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/Adobe Update Helper.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/AdobeCrashReporter.framework/Versions/A/LogTransport.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/Install.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/Uninstaller.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe_licensing_helper.app
+  - File path: 
 - /Library/Application Support/Adobe/Adobe Desktop Common/RemoteComponents/UPI/UnifiedPluginInstallerAgent/UnifiedPluginInstallerAgent.app
+  - File path: 
 - /Library/Application Support/Adobe/AdobeGCClient/AdobeCleanUpUtility.app
+  - File path: 
 - /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app
+  - File path: 
 - /Library/Application Support/Adobe/CAI/cai-helper.app
+  - File path: 
 - /Library/Application Support/Adobe/Creative Cloud Libraries/CCLibrary.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/ACAI_0_4_12.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/ACR_15_1_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/AERO_0_18_4.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/AME_23_1_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/CCXP_4_13_1.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/CHAR_23_1_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/COCM_1_0_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/COPS_1_0_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/CORE_1_0_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/CORG_1_1_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/COSY_6_0_0_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/KASU_2_0_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/KBRG_13_0_1_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/LIBS_3_22_1.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/LRCC_6_1_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/PHSP_24_1_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/RUSH_2_6_32.app
+  - File path: 
 - /Library/Application Support/Adobe/Uninstall/UXPD_1_7_0.app
+  - File path: 
 - /Library/Application Support/Logitech.localized/LogiOptionsPlus/FirmwareUpdateTool.app
+  - File path: 
 - /Library/Application Support/Logitech.localized/LogiOptionsPlus/logioptionsplus_agent.app
+  - File path: 
 - /Library/Application Support/Logitech.localized/Logitech Options.localized/Logi Bolt Installer.app
+  - File path: 
 - /Library/Application Support/Logitech.localized/Logitech Options.localized/LogiMgrUpdater.app
+  - File path: 
 - /Library/Application Support/Logitech.localized/Logitech Options.localized/Logitech Unifying Software.app
+  - File path: 
 - /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app
+  - File path: 
 - /Library/Application Support/Script Editor/Templates/Cocoa-AppleScript Applet.app
+  - File path: 
 - /Library/Application Support/Script Editor/Templates/Droplets/Droplet with Settable Properties.app
+  - File path: 
 - /Library/Application Support/Script Editor/Templates/Droplets/Recursive File Processing Droplet.app
+  - File path: 
 - /Library/Application Support/Script Editor/Templates/Droplets/Recursive Image File Processing Droplet.app
+  - File path: 
 - /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app
+  - File path: 
 - /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebKitLegacy.framework/Versions/A/WebKitPluginHost.app
+  - File path: 
 - /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebKitLegacy.framework/Versions/A/WebKitPluginHost.app
+  - File path: 
 - /Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app
+  - File path: 
 - /Library/Image Capture/Devices/Canon IJScanner2.app
+  - File path: 
 - /Library/Image Capture/Devices/Canon IJScanner4.app
+  - File path: 
 - /Library/Image Capture/Devices/Canon IJScanner6.app
+  - File path: 
 - /Library/Image Capture/Devices/EPSON Scanner.app
+  - File path: 
 - /Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/AirScanLegacyDiscovery.app
+  - File path: 
 - /Library/Printers/EPSON/Fax/AutoSetupTool/EPFaxAutoSetupTool.app
+  - File path: 
 - /Library/Printers/EPSON/Fax/FaxIOSupport/epsonfax.app
+  - File path: 
 - /Library/Printers/EPSON/Fax/Filter/commandFilter.app
+  - File path: 
 - /Library/Printers/EPSON/Fax/Filter/rastertoepfax.app
+  - File path: 
 - /Library/Printers/EPSON/Fax/Utility/FAX Utility.app
+  - File path: 
 - /Library/Printers/EPSON/Fax/Utility/Fax Receive Monitor.app
+  - File path: 
 - /System/Applications/App Store.app
+  - File path: 
 - /System/Applications/Automator.app
+  - File path: 
 - /System/Applications/Books.app
+  - File path: 
 - /System/Applications/Calculator.app
+  - File path: 
 - /System/Applications/Calendar.app
+  - File path: 
 - /System/Applications/Chess.app
+  - File path: 
 - /System/Applications/Clock.app
+  - File path: 
 - /System/Applications/Contacts.app
+  - File path: 
 - /System/Applications/Dictionary.app
+  - File path: 
 - /System/Applications/FaceTime.app
+  - File path: 
 - /System/Applications/FindMy.app
+  - File path: 
 - /System/Applications/Font Book.app
+  - File path: 
 - /System/Applications/Home.app
+  - File path: 
 - /System/Applications/Image Capture.app
+  - File path: 
 - /System/Applications/Launchpad.app
+  - File path: 
 - /System/Applications/Mail.app
+  - File path: 
 - /System/Applications/Maps.app
+  - File path: 
 - /System/Applications/Messages.app
+  - File path: 
 - /System/Applications/Mission Control.app
+  - File path: 
 - /System/Applications/Music.app
+  - File path: 
 - /System/Applications/News.app
+  - File path: 
 - /System/Applications/Notes.app
+  - File path: 
 - /System/Applications/Photo Booth.app
+  - File path: 
 - /System/Applications/Photos.app
+  - File path: 
 - /System/Applications/Podcasts.app
+  - File path: 
 - /System/Applications/Preview.app
+  - File path: 
 - /System/Applications/QuickTime Player.app
+  - File path: 
 - /System/Applications/Reminders.app
+  - File path: 
 - /System/Applications/Shortcuts.app
+  - File path: 
 - /System/Applications/Siri.app
+  - File path: 
 - /System/Applications/Stickies.app
+  - File path: 
 - /System/Applications/Stocks.app
+  - File path: 
 - /System/Applications/System Settings.app
+  - File path: 
 - /System/Applications/TV.app
+  - File path: 
 - /System/Applications/TextEdit.app
+  - File path: 
 - /System/Applications/Time Machine.app
+  - File path: 
 - /System/Applications/Utilities/Activity Monitor.app
+  - File path: 
 - /System/Applications/Utilities/AirPort Utility.app
+  - File path: 
 - /System/Applications/Utilities/Audio MIDI Setup.app
+  - File path: 
 - /System/Applications/Utilities/Bluetooth File Exchange.app
+  - File path: 
 - /System/Applications/Utilities/Boot Camp Assistant.app
+  - File path: 
 - /System/Applications/Utilities/ColorSync Utility.app
+  - File path: 
 - /System/Applications/Utilities/Console.app
+  - File path: 
 - /System/Applications/Utilities/Digital Color Meter.app
+  - File path: 
 - /System/Applications/Utilities/Disk Utility.app
+  - File path: 
 - /System/Applications/Utilities/Grapher.app
+  - File path: 
 - /System/Applications/Utilities/Keychain Access.app
+  - File path: 
 - /System/Applications/Utilities/Migration Assistant.app
+  - File path: 
 - /System/Applications/Utilities/Screenshot.app
+  - File path: 
 - /System/Applications/Utilities/Script Editor.app
+  - File path: 
 - /System/Applications/Utilities/System Information.app
+  - File path: 
 - /System/Applications/Utilities/Terminal.app
+  - File path: 
 - /System/Applications/Utilities/VoiceOver Utility.app
+  - File path: 
 - /System/Applications/VoiceMemos.app
+  - File path: 
 - /System/Applications/Weather.app
+  - File path: 
 - /System/Library/Classroom/ClassroomStudentMenuExtra.app
+  - File path: 
 - /System/Library/ColorSync/Calibrators/Display Calibrator.app
+  - File path: 
 - /System/Library/CoreServices/AOSUIPrefPaneLauncher.app
+  - File path: 
 - /System/Library/CoreServices/AVB Audio Configuration.app
+  - File path: 
 - /System/Library/CoreServices/AddPrinter.app
+  - File path: 
 - /System/Library/CoreServices/AddressBookUrlForwarder.app
+  - File path: 
 - /System/Library/CoreServices/AirPlayUIAgent.app
+  - File path: 
 - /System/Library/CoreServices/AirPort Base Station Agent.app
+  - File path: 
 - /System/Library/CoreServices/AppleScript Utility.app
+  - File path: 
 - /System/Library/CoreServices/Applications/About This Mac.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Archive Utility.app
+  - File path: 
 - /System/Library/CoreServices/Applications/DVD Player.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Desk View.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Directory Utility.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Expansion Slot Utility.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Feedback Assistant.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Folder Actions Setup.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Screen Sharing.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Ticket Viewer.app
+  - File path: 
 - /System/Library/CoreServices/Applications/Wireless Diagnostics.app
+  - File path: 
 - /System/Library/CoreServices/Applications/iOS App Installer.app
+  - File path: 
 - /System/Library/CoreServices/Automator Application Stub.app
+  - File path: 
 - /System/Library/CoreServices/Automator Installer.app
+  - File path: 
 - /System/Library/CoreServices/BluetoothSetupAssistant.app
+  - File path: 
 - /System/Library/CoreServices/BluetoothUIServer.app
+  - File path: 
 - /System/Library/CoreServices/BluetoothUIService.app
+  - File path: 
 - /System/Library/CoreServices/CalendarFileHandler.app
+  - File path: 
 - /System/Library/CoreServices/Captive Network Assistant.app
+  - File path: 
 - /System/Library/CoreServices/Certificate Assistant.app
+  - File path: 
 - /System/Library/CoreServices/ControlCenter.app
+  - File path: 
 - /System/Library/CoreServices/ControlStrip.app
+  - File path: 
 - /System/Library/CoreServices/CoreLocationAgent.app
+  - File path: 
 - /System/Library/CoreServices/CoreServicesUIAgent.app
+  - File path: 
 - /System/Library/CoreServices/Database Events.app
+  - File path: 
 - /System/Library/CoreServices/Diagnostics Reporter.app
+  - File path: 
 - /System/Library/CoreServices/DiscHelper.app
+  - File path: 
 - /System/Library/CoreServices/DiskImageMounter.app
+  - File path: 
 - /System/Library/CoreServices/Dock.app
+  - File path: 
 - /System/Library/CoreServices/Dwell Control.app
+  - File path: 
 - /System/Library/CoreServices/Erase Assistant.app
+  - File path: 
 - /System/Library/CoreServices/EscrowSecurityAlert.app
+  - File path: 
 - /System/Library/CoreServices/Family.app
+  - File path: 
 - /System/Library/CoreServices/Finder.app
+  - File path: 
 - /System/Library/CoreServices/Finder.app/Contents/Applications/AirDrop.app
+  - File path: 
 - /System/Library/CoreServices/Finder.app/Contents/Applications/Computer.app
+  - File path: 
 - /System/Library/CoreServices/Finder.app/Contents/Applications/Network.app
+  - File path: 
 - /System/Library/CoreServices/Finder.app/Contents/Applications/Recents.app
+  - File path: 
 - /System/Library/CoreServices/Finder.app/Contents/Applications/iCloud Drive.app
+  - File path: 
 - /System/Library/CoreServices/FolderActionsDispatcher.app
+  - File path: 
 - /System/Library/CoreServices/Game Center.app
+  - File path: 
 - /System/Library/CoreServices/HelpViewer.app
+  - File path: 
 - /System/Library/CoreServices/IOUIAgent.app
+  - File path: 
 - /System/Library/CoreServices/Image Events.app
+  - File path: 
 - /System/Library/CoreServices/Install Command Line Developer Tools.app
+  - File path: 
 - /System/Library/CoreServices/Install in Progress.app
+  - File path: 
 - /System/Library/CoreServices/Installer Progress.app
+  - File path: 
 - /System/Library/CoreServices/Installer.app
+  - File path: 
 - /System/Library/CoreServices/JavaLauncher.app
+  - File path: 
 - /System/Library/CoreServices/KeyboardAccessAgent.app
+  - File path: 
 - /System/Library/CoreServices/KeyboardSetupAssistant.app
+  - File path: 
 - /System/Library/CoreServices/Keychain Circle Notification.app
+  - File path: 
 - /System/Library/CoreServices/Language Chooser.app
+  - File path: 
 - /System/Library/CoreServices/LocationMenu.app
+  - File path: 
 - /System/Library/CoreServices/MTLReplayer.app
+  - File path: 
 - /System/Library/CoreServices/ManagedClient.app
+  - File path: 
 - /System/Library/CoreServices/Memory Slot Utility.app
+  - File path: 
 - /System/Library/CoreServices/NetAuthAgent.app
+  - File path: 
 - /System/Library/CoreServices/NotificationCenter.app
+  - File path: 
 - /System/Library/CoreServices/NowPlayingTouchUI.app
+  - File path: 
 - /System/Library/CoreServices/OBEXAgent.app
+  - File path: 
 - /System/Library/CoreServices/ODSAgent.app
+  - File path: 
 - /System/Library/CoreServices/OSDUIHelper.app
+  - File path: 
 - /System/Library/CoreServices/PIPAgent.app
+  - File path: 
 - /System/Library/CoreServices/Paired Devices.app
+  - File path: 
 - /System/Library/CoreServices/Pass Viewer.app
+  - File path: 
 - /System/Library/CoreServices/PodcastsAuthAgent.app
+  - File path: 
 - /System/Library/CoreServices/PowerChime.app
+  - File path: 
 - /System/Library/CoreServices/Problem Reporter.app
+  - File path: 
 - /System/Library/CoreServices/ProfileHelper.app
+  - File path: 
 - /System/Library/CoreServices/RapportUIAgent.app
+  - File path: 
 - /System/Library/CoreServices/RegisterPluginIMApp.app
+  - File path: 
 - /System/Library/CoreServices/RemoteManagement/ARDAgent.app
+  - File path: 
 - /System/Library/CoreServices/RemoteManagement/SSMenuAgent.app
+  - File path: 
 - /System/Library/CoreServices/Rosetta 2 Updater.app
+  - File path: 
 - /System/Library/CoreServices/Screen Time.app
+  - File path: 
 - /System/Library/CoreServices/ScreenSaverEngine.app
+  - File path: 
 - /System/Library/CoreServices/Script Menu.app
+  - File path: 
 - /System/Library/CoreServices/ScriptMonitor.app
+  - File path: 
 - /System/Library/CoreServices/Setup Assistant.app
+  - File path: 
 - /System/Library/CoreServices/ShortcutDroplet.app
+  - File path: 
 - /System/Library/CoreServices/Shortcuts Events.app
+  - File path: 
 - /System/Library/CoreServices/Siri.app
+  - File path: 
 - /System/Library/CoreServices/Software Update.app
+  - File path: 
 - /System/Library/CoreServices/SpacesTouchBarAgent.app
+  - File path: 
 - /System/Library/CoreServices/Spotlight.app
+  - File path: 
 - /System/Library/CoreServices/StageManagerEducation.app
+  - File path: 
 - /System/Library/CoreServices/System Events.app
+  - File path: 
 - /System/Library/CoreServices/SystemUIServer.app
+  - File path: 
 - /System/Library/CoreServices/TextInputMenuAgent.app
+  - File path: 
 - /System/Library/CoreServices/TextInputSwitcher.app
+  - File path: 
 - /System/Library/CoreServices/ThermalTrap.app
+  - File path: 
 - /System/Library/CoreServices/TimeMachine/TMHelperAgent.app
+  - File path: 
 - /System/Library/CoreServices/Tips.app
+  - File path: 
 - /System/Library/CoreServices/UIKitSystem.app
+  - File path: 
 - /System/Library/CoreServices/UniversalAccessControl.app
+  - File path: 
 - /System/Library/CoreServices/UniversalControl.app
+  - File path: 
 - /System/Library/CoreServices/UnmountAssistantAgent.app
+  - File path: 
 - /System/Library/CoreServices/UserNotificationCenter.app
+  - File path: 
 - /System/Library/CoreServices/VoiceOver.app
+  - File path: 
 - /System/Library/CoreServices/WatchFaceAlert.app
+  - File path: 
 - /System/Library/CoreServices/WiFiAgent.app
+  - File path: 
 - /System/Library/CoreServices/WidgetKit Simulator.app
+  - File path: 
 - /System/Library/CoreServices/WindowManager.app
+  - File path: 
 - /System/Library/CoreServices/Xcode Previews.app
+  - File path: 
 - /System/Library/CoreServices/iCloud+.app
+  - File path: 
 - /System/Library/CoreServices/iCloud.app
+  - File path: 
 - /System/Library/CoreServices/loginwindow.app
+  - File path: 
 - /System/Library/CoreServices/rcd.app
+  - File path: 
 - /System/Library/CoreServices/screencaptureui.app
+  - File path: 
 - /System/Library/Frameworks/AddressBook.framework/Helpers/AddressBookSync.app
+  - File path: 
 - /System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/ABAssistantService.app
+  - File path: 
 - /System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/AddressBookManager.app
+  - File path: 
 - /System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/AddressBookSourceSync.app
+  - File path: 
 - /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/FontRegistryUIAgent.app
+  - File path: 
 - /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/System Speech.app
+  - File path: 
 - /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/CinematicFramingOnboardingUI.app
+  - File path: 
 - /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/ContinuityCaptureOnboardingUI.app
+  - File path: 
 - /System/Library/Frameworks/CryptoTokenKit.framework/ctkbind.app
+  - File path: 
 - /System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/qlmanage.app
+  - File path: 
 - /System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/quicklookd.app
+  - File path: 
 - /System/Library/Frameworks/QuickLookUI.framework/Versions/A/Resources/Quick Look Simulator.app
+  - File path: 
 - /System/Library/Frameworks/QuickLookUI.framework/Versions/A/Resources/QuickLookUIHelper.app
+  - File path: 
 - /System/Library/Frameworks/SyncServices.framework/Versions/A/Resources/SyncServer.app
+  - File path: 
 - /System/Library/Frameworks/Tk.framework/Versions/8.5/Resources/Wish.app
+  - File path: 
 - /System/Library/Image Capture/Automatic Tasks/Build Web Page.app
+  - File path: 
 - /System/Library/Image Capture/Automatic Tasks/MakePDF.app
+  - File path: 
 - /System/Library/Image Capture/Devices/AirScanScanner.app
+  - File path: 
 - /System/Library/Image Capture/Devices/VirtualScanner.app
+  - File path: 
 - /System/Library/Input Methods/50onPaletteServer.app
+  - File path: 
 - /System/Library/Input Methods/AinuIM.app
+  - File path: 
 - /System/Library/Input Methods/Assistive Control.app
+  - File path: 
 - /System/Library/Input Methods/CharacterPalette.app
+  - File path: 
 - /System/Library/Input Methods/DictationIM.app
+  - File path: 
 - /System/Library/Input Methods/EmojiFunctionRowIM.app
+  - File path: 
 - /System/Library/Input Methods/JapaneseIM-KanaTyping.app
+  - File path: 
 - /System/Library/Input Methods/JapaneseIM-RomajiTyping.app
+  - File path: 
 - /System/Library/Input Methods/KoreanIM.app
+  - File path: 
 - /System/Library/Input Methods/PluginIM.app
+  - File path: 
 - /System/Library/Input Methods/PressAndHold.app
+  - File path: 
 - /System/Library/Input Methods/SCIM.app
+  - File path: 
 - /System/Library/Input Methods/TCIM.app
+  - File path: 
 - /System/Library/Input Methods/TYIM.app
+  - File path: 
 - /System/Library/Input Methods/TamilIM.app
+  - File path: 
 - /System/Library/Input Methods/TrackpadIM.app
+  - File path: 
 - /System/Library/Input Methods/TransliterationIM.app
+  - File path: 
 - /System/Library/Input Methods/VietnameseIM.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AOSAccounts.framework/Versions/A/Resources/iCloudUserNotificationsd.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSAlertManager.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSHeartbeat.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSPushRelay.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AccessibilitySharedSupport.framework/Versions/A/Resources/LiveTranscriptionAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Resources/AccessibilityVisualsAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/Resources/Calibration Assistant.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AppSSOKerberos.framework/Support/KerberosMenuExtra.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/Versions/A/Resources/AMSEngagementViewService.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/AskPermissionUI.app
+  - File path: 
 - /System/Library/PrivateFrameworks/AutomationMode.framework/AutomationModeUI.app
+  - File path: 
 - /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Resources/iCloud Drive.app
+  - File path: 
 - /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app
+  - File path: 
 - /System/Library/PrivateFrameworks/CoreChineseEngine.framework/Versions/A/SharedSupport/CIMFindInputCodeTool.app
+  - File path: 
 - /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Resources/FollowUpUI.app
+  - File path: 
 - /System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/DiskImages UI Agent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/EAP8021X.framework/Support/eaptlstrust.app
+  - File path: 
 - /System/Library/PrivateFrameworks/FamilyControls.framework/Versions/A/Resources/ParentalControls.app
+  - File path: 
 - /System/Library/PrivateFrameworks/FindMyMac.framework/Versions/A/Resources/FindMyMacMessenger.app
+  - File path: 
 - /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app
+  - File path: 
 - /System/Library/PrivateFrameworks/IDSFoundation.framework/IDSRemoteURLConnectionAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/IMCore.framework/imagent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/PaperKit.framework/Contents/LinkedNotesUIService.app
+  - File path: 
 - /System/Library/PrivateFrameworks/PreviewsInjection.framework/Versions/A/Resources/XCPreviewAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/PrintingPrivate.framework/Versions/A/Plugins/PrinterProxy.app
+  - File path: 
 - /System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/ScreenReaderUIServer.app
+  - File path: 
 - /System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/VoiceOver Quickstart.app
+  - File path: 
 - /System/Library/PrivateFrameworks/SkyLight.framework/Versions/A/Resources/AquaAppearanceHelper.app
+  - File path: 
 - /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app
+  - File path: 
 - /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/Resources/SoftwareUpdateNotificationManager.app
+  - File path: 
 - /System/Library/PrivateFrameworks/SpeechObjects.framework/Versions/A/SpeechDataInstallerd.app
+  - File path: 
 - /System/Library/PrivateFrameworks/SpeechObjects.framework/Versions/A/SpeechRecognitionServer.app
+  - File path: 
 - /System/Library/PrivateFrameworks/StorageManagement.framework/Versions/A/Resources/STMUIHelper.app
+  - File path: 
 - /System/Library/PrivateFrameworks/SyncServicesUI.framework/Versions/A/Resources/Conflict Resolver.app
+  - File path: 
 - /System/Library/PrivateFrameworks/SyncServicesUI.framework/Versions/A/Resources/syncuid.app
+  - File path: 
 - /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app
+  - File path: 
 - /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/DFRHUD.app
+  - File path: 
 - /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app
+  - File path: 
 - /System/Library/PrivateFrameworks/UserActivity.framework/Agents/UASharedPasteboardProgressUI.app
+  - File path: 
 - /System/Library/Services/AppleSpell.service
+  - File path: 
 - /System/Library/Services/ChineseTextConverterService.app
+  - File path: 
 - /System/Library/Services/OpenSpell.service
+  - File path: 
 - /System/Library/Services/SpeechService.service
+  - File path: 
 - /System/Library/Services/Spotlight.service
+  - File path: 
 - /System/Library/Services/SummaryService.app
+  - File path: 
 - /System/iOSSupport/System/Library/PrivateFrameworks/PreviewsInjection.framework/Versions/A/Resources/XCPreviewAgent.app
+  - File path: 
 - /Users/Shared/LGHUB/depots/157231/core/lghub.app
+  - File path: 
 - /Users/jadan/Applications/Chrome Apps.localized/YouTube TV.app
+  - File path: 
 - /Users/jadan/Applications/Chrome Apps.localized/YouTube.app
+  - File path: 
 - /Users/jadan/Downloads/1Password Installer.app
+  - File path: 
 - /Users/jadan/Downloads/AppCleaner.app
+  - File path: 
 - /Users/jadan/Downloads/ConnectWise Control Client 2.app
+  - File path: 
 - /Users/jadan/Downloads/ConnectWise Control Client.app
+  - File path: 
 - /Users/jadan/Downloads/Cyberduck.app
+  - File path: 
 - /Users/jadan/Downloads/FirmwareUpdateTool.app
+  - File path: 
 - /Users/jadan/Downloads/Install Spotify.app
+  - File path: 
 - /Users/jadan/Downloads/There.app
+  - File path: 
 - /Users/jadan/Downloads/iTerm.app
+  - File path: 
 - /Users/jadan/Downloads/lghub_installer 2.app
+  - File path: 
 - /Users/jadan/Downloads/lghub_installer.app
+  - File path: 
 - /Users/jadan/Downloads/logioptionsplus_installer.app
+  - File path: 
 - /Users/jadan/Library/Application Scripts/com.microsoft.openxml.excel.app
+  - File path: 
 - /Users/jadan/Library/Application Scripts/group.is.workflow.my.app
+  - File path: 
 - /Users/jadan/Library/Application Support/Code/User/globalStorage/ms-vsliveshare.vsliveshare-audio/electron-4.2.12/dist/Electron.app
+  - File path: 
 - /Users/jadan/Library/Application Support/Imaging Edge/EULA_PP_Checker.app
+  - File path: 
 - /Users/jadan/Library/Developer/Xcode/DerivedData/basic_game-baynieqilsgvsrfoyvhvnsdkxvmo/Build/Products/Debug/basic_game.app
+  - File path: 
 - /Users/jadan/Library/Developer/Xcode/DerivedData/basic_login-arubdaipqeqqmacarhocqgbpartr/Build/Products/Debug/basic_login.app
+  - File path: 
 - /Users/jadan/Library/HTTPStorages/com.adobe.uxp.devtools.app
+  - File path: 
 - /Users/jadan/Library/HTTPStorages/com.apple.ctcategories.service
+  - File path: 
 - /usr/local/Cellar/python@3.11/3.11.0/Frameworks/Python.framework/Versions/3.11/Resources/Python.app
+  - File path: 
 - /usr/local/Cellar/python@3.11/3.11.0/IDLE 3.app
+  - File path: 
 - /usr/local/Cellar/python@3.11/3.11.0/Python Launcher 3.app
+  - File path: 
 - /usr/local/ClamXAV3/bin/ClamXAV UI Helper.app
+  - File path: 
 - /usr/local/ClamXAV3/bin/Uninstall.app
+  - File path: 
